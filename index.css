@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
 }
+
 header{
     height: 50px;
     background-color: black;
@@ -11,10 +12,14 @@ header{
 a{
     height: 60px;
     color: white;
-    margin-right: 50px;
+    margin-right: 200px;
 }
 
 
 button{
-    background-color: yellow;
+    background-color: #f08804;
+}
+
+#start{
+    color: #f08804;
 }
